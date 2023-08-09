@@ -8,3 +8,9 @@
 .parag-2 {
     background: violet;
 }
+.parag-3 {
+    text-align: center;
+    font-size: 24pt;
+    font-style: italic;
+    text-shadow: 3px 2px 3px green;
+}
